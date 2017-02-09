@@ -1,5 +1,7 @@
 package android.bignerdranch.com.locatr;
 
+// Chapter 31: Locations and Play Services
+
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
